@@ -1,0 +1,2 @@
+# CsQuakesApiEdm
+Earthquakes
